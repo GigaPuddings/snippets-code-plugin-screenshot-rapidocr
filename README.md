@@ -5,7 +5,7 @@ Official installable plugin package for Snippets Code.
 - Plugin ID: `screenshot-rapidocr`
 - Version: `1.5.6`
 - Source: `dist-plugin-packages/screenshot-rapidocr`
-- App compatibility: `managed by host plugin`
+- App compatibility: `>=1.5.6`
 
 Install URL:
 

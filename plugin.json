@@ -17,6 +17,7 @@
     "hintKey": "plugins.screenshot.resourceHint",
     "bundled": false
   },
+  "compatibleAppVersion": ">=1.5.6",
   "minAppVersion": "1.5.6",
   "repository": "https://github.com/GigaPuddings/snippets-code-plugin-screenshot-rapidocr",
   "releaseUrl": "https://github.com/GigaPuddings/snippets-code-plugin-screenshot-rapidocr/releases/tag/1.5.6"
