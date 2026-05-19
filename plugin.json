@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "screenshot-rapidocr",
-  "version": "1.5.6",
+  "version": "2.0.0",
   "kind": "local",
   "name": {
     "i18nKey": "plugins.screenshotRapidocr.name",
@@ -9,16 +9,17 @@
   },
   "description": {
     "i18nKey": "plugins.screenshotRapidocr.description",
-    "fallback": "Provides the optional RapidOCR runtime used by the screenshot plugin."
+    "fallback": "Provides the RapidOCR runtime required by screenshot OCR and screenshot translation."
   },
   "category": "capture",
+  "resourceFor": "screenshot",
   "enabledByDefault": true,
   "resources": {
     "hintKey": "plugins.screenshot.resourceHint",
     "bundled": false
   },
-  "compatibleAppVersion": ">=1.5.6",
+  "compatibleAppVersion": ">=2.0.0",
   "minAppVersion": "1.5.6",
   "repository": "https://github.com/GigaPuddings/snippets-code-plugin-screenshot-rapidocr",
-  "releaseUrl": "https://github.com/GigaPuddings/snippets-code-plugin-screenshot-rapidocr/releases/tag/1.5.6"
+  "releaseUrl": "https://github.com/GigaPuddings/snippets-code-plugin-screenshot-rapidocr/releases/tag/2.0.0"
 }
