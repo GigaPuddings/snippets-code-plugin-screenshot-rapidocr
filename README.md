@@ -3,7 +3,7 @@
 Local RapidOCR resource package for Snippets Code.
 
 - Plugin ID: `screenshot-rapidocr`
-- Version: `2.0.5`
+- Version: `2.0.6`
 - Resource path: `resources/rapidocr`
 
 Install this directory from the app plugin settings, or run `pnpm rapidocr:release`
